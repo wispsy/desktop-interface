@@ -20,8 +20,8 @@ classifiers = [
 ]
 
 [project.urls]
-Source = "https://github.com/outside-labs/desktop-interface"
-Issues = "https://github.com/outside-labs/desktop-interface/issues"
+Source = "https://github.com/wispsy/desktop-interface"
+Issues = "https://github.com/wispsy/desktop-interface/issues"
 
 [build-system]
 requires = ["uv_build>=0.12.19,<0.13.0"]
